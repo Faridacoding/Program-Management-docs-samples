@@ -1,4 +1,4 @@
-# Program-Management-docs-samples
+# Program Management docs samples
 This repository contains documentation samples for Product and/or Program management. It includes AI Apps for workflow automation.
 
 **1. Documentation workflow automation** \
