@@ -55,6 +55,9 @@ npm run dev
 ```
 The app will be available at `http://localhost:3000`.
 
+### 5. Demo
+![Project pulse demo.mp4](Project-Pulse/Demo.mp4)
+
 ## 🔒 Security Note
 This project is configured to keep your API keys secure:
 - The `.env` file is listed in `.gitignore` to prevent it from being pushed to public repositories.
