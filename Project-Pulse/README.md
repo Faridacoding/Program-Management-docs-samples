@@ -56,7 +56,7 @@ npm run dev
 The app will be available at `http://localhost:3000`.
 
 ### 5. Demo
-[Project pulse demo.mp4](Project-Pulse/Demo.mp4)
+[Project pulse demo.mp4](https://github.com/Faridacoding/Program-Management-docs-samples/blob/main/Project-Pulse/Demo.mp4)
 
 ## 🔒 Security Note
 This project is configured to keep your API keys secure:
