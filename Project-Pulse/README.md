@@ -1,4 +1,4 @@
-# AI-Powered Meeting Insights & Newsletter Generator
+# AI-Powered(Agentic AI) Meeting Insights & Newsletter Generator
 
 An intelligent workflow automation tool that transforms unstructured meeting notes into structured project insights and professional stakeholder newsletters using the Google Gemini API.
 
